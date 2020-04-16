@@ -1,2 +1,6 @@
 Talking about stuff in this Kapitel
 Is it going to be in German or English?
+Is this correct? After having saved this file,
+I need to do the git add nameoffile.txt
+and then the git commit thing
+Le'ts try
